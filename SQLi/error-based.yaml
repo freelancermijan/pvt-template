@@ -19,7 +19,7 @@ http:
     payloads:
       injection:
         - "'"
-        - "\""
+        - '\"'
         - ";"
         - "[]"
         - ")"
